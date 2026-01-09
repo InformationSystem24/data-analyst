@@ -2,3 +2,4 @@ data analyst-resolusi
   - belajar sql 
   - belajar python
   - apply kerja bagian data analyst
+  - perubahan 1
