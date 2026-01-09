@@ -1,4 +1,5 @@
 rencana - belajar
 - framework laravel
 - postgre sql
-- gt
+- git
+
