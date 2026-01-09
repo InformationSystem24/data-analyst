@@ -1,0 +1,4 @@
+rencana - belajar
+- framework laravel
+- postgre sql
+- git
